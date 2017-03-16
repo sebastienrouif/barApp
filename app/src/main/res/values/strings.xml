@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bar demo app</string>
+    <string name="locate_menu_item">Locate me</string>
+    <string name="maps_marker_info">%1$s @ %2$.0f meters</string>
+    <string name="bar_list_title">List</string>
+    <string name="bar_map_title">Maps</string>
+    <string name="bar_list_empty">no bars around</string>
+    <string name="there_was_an_error_finding_the_bars">There was an error finding the bars</string>
+    <string name="install_google_maps">You need to install Google maps</string>
+    <string name="retry">Retry</string>
+</resources>
